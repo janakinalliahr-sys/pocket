@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI",
+  "description": "PocketSmart AI: Your Smart Budget & Recommendation Assistant. Track spending, generate smart budgets, reach savings goals, and get AI-driven financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
